@@ -15,7 +15,6 @@ import org.jfree.data.time.TimeSeriesCollection;
 import org.jfree.data.time.Year;
 
 /***
- * Author: Peyman Naderi
  * Class to produce scatter plot for analysed data.
  */
 public class ScatterGraph extends Viewer {

@@ -1,7 +1,6 @@
 import java.util.HashMap;
 
 /***
- * Author: Nikita Nemtcev
  * Analysis class deigned to perform the analysis on Air Pollution and Forest Area dataset.
  */
 public class AnalysisTwoStrategy extends AnalysisStrategy {

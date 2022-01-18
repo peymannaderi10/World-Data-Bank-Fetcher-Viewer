@@ -8,7 +8,6 @@ import org.jfree.chart.JFreeChart;
 import org.jfree.data.general.DefaultPieDataset;
 
 /***
- * Author: Peyman Naderi and Muhammad Askri
  * Class to make the piechart with the desired analysed data.
  */
 public class PieGraph extends Viewer {

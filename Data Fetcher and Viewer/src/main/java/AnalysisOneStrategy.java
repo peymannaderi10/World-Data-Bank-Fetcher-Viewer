@@ -1,7 +1,6 @@
 import java.util.HashMap;
 
 /***
- * Author: Nikita Nemtcev and Muhammad Askri
  * Analysis class deigned to perform the analysis on CO2 emissions, energy use and air pollution dataset.
  */
 public class AnalysisOneStrategy extends AnalysisStrategy {

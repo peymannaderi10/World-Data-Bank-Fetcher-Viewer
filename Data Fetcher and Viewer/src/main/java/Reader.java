@@ -1,7 +1,6 @@
 import java.util.HashMap;
 
 /**
- * Author: Nikita Nemtcev
  * The abstract class for a reader.
  */
 

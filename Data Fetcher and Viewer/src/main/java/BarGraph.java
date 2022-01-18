@@ -10,7 +10,6 @@ import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.category.DefaultCategoryDataset;
 
 /***
- * Author: Peyman Naderi and Muhammad Askri
  * Class to make the bar graph with the desired analysed data.
  */
 public class BarGraph extends Viewer {

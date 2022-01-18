@@ -1,7 +1,6 @@
 import java.util.HashMap;
 
 /***
- * Author: Nikita Nemtcev
  * An abstract class that outlays the model for other analysis classes.
  */
 public abstract class AnalysisStrategy {

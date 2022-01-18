@@ -1,7 +1,6 @@
 import java.util.HashMap;
 
 /***
- * Author: Nikita Nemtcev and Muhammad Askri
  * Analysis class designed to perform the analysis on hospital beds and Health Expenditure per Capita dataset.
  */
 public class AnalysisSixStrategy extends AnalysisStrategy {

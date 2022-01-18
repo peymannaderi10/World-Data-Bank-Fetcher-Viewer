@@ -1,6 +1,5 @@
 /**
  * A class that contains information about countries, for example, what countries can be analyzed in this program.
- * Author: Usman Khan
  */
 public class Country {
     // Country model class for storing name, from date and to date in array list.

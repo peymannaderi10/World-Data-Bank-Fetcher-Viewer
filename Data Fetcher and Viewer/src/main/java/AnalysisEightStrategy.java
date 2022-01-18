@@ -1,7 +1,6 @@
 import java.util.HashMap;
 
 /***
- * Author: Nikita Nemtcev
  * Analysis class deigned to perform the analysis on Government Expenditure and Health Expenditure dataset.
  */
 public class AnalysisEightStrategy extends AnalysisStrategy {

@@ -11,7 +11,6 @@ import org.jfree.data.time.Year;
 import javax.swing.*;
 
 /***
- * Author: Peyman Naderi
  * Class to make the time series graph with the desired analysed data.
  */
 public class TimeSeriesGraph extends Viewer {

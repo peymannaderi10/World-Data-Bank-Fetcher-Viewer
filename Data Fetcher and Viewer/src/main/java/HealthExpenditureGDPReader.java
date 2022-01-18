@@ -7,7 +7,6 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonParser;
 
 /**
- * Author: Nikita Nemtcev
  * The reader class that fetches data from the World Bank data repository pertaining to current health expenditure (% of GDP).
  */
 public class HealthExpenditureGDPReader extends Reader {

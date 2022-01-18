@@ -12,9 +12,7 @@ import javax.swing.JPanel;
 import org.jfree.chart.ChartPanel;
 import java.io.*;
 
-/***
- * Author: Peyman Naderi, Nikita Nemtcev, Muhammad Askri and Usman Khan
- */
+
 public class MainUI extends JFrame {
     JComboBox<String> methodsList;
     JComboBox<String> countriesList;

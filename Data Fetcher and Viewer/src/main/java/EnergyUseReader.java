@@ -7,7 +7,6 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonParser;
 
 /**
- * Name: Nikita Nemtcev
  * The reader class that fetches data from the World Bank data repository pertaining to energy use.
  */
 public class EnergyUseReader extends Reader {

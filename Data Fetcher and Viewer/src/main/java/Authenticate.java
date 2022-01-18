@@ -5,7 +5,6 @@ import java.io.*;
 import java.util.Hashtable;
 
 /***
- * Author: Muhammad Askri
  * Class that provides the the login user interface and authenticates the user credentianls for system access.
  * The user credentials (username and passwords) are stored and read from the Users file
  */

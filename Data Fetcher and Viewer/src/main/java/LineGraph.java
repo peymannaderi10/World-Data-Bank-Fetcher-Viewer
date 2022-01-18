@@ -13,7 +13,6 @@ import org.jfree.chart.title.TextTitle;
 import org.jfree.data.category.DefaultCategoryDataset;
 
 /***
- * Author: Peyman Naderi and Muhammad Askri
  * Class to make the line graph with the desired analysed data.
  */
 public class LineGraph extends Viewer {

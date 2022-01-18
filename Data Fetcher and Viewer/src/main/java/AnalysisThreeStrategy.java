@@ -1,7 +1,6 @@
 import java.util.HashMap;
 
 /***
- * Author: Nikita Nemtcev
  * Analysis class designed to perform the analysis on CO2 emissions and GDP per capita dataset.
  */
 public class AnalysisThreeStrategy extends AnalysisStrategy {

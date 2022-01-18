@@ -2,7 +2,6 @@ import java.util.HashMap;
 
 /***
  * Analysis class deigned to perform the analysis on government expenditure.
- * Author: Nikita Nemtcev
  */
 public class AnalysisFiveStrategy extends AnalysisStrategy {
     /***

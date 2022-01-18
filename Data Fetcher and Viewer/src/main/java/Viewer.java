@@ -2,7 +2,6 @@ import java.util.HashMap;
 import org.jfree.chart.ChartPanel;
 
 /***
- * Author: Peyman Naderi
  * Abstract class that provides a layout for all the graph classes.
  */
 public abstract class Viewer {

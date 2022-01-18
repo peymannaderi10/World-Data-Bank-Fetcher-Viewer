@@ -1,7 +1,6 @@
 import java.util.HashMap;
 
 /***
- * Author: Nikita Nemtcev and Muhammad Askri
  * Analysis class designed to perform the analysis on forest area dataset.
  */
 public class AnalysisFourStrategy extends AnalysisStrategy {

@@ -7,6 +7,10 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonParser;
 
 /**
+<<<<<<< HEAD
+=======
+
+>>>>>>> b4617b3f3e9722d10fabf29cd7ebacaec8528275
  * The reader class that fetches data from the World Bank data repository pertaining to PM2.5 air pollution.
  */
 public class AirPollutionReader extends Reader {
